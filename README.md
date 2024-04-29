@@ -1,1 +1,1 @@
-https://github.com/BanShuit/goit-js-hw-10.git
+https://banshuit.github.io/goit-js-hw-10/
